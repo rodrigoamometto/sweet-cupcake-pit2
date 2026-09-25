@@ -1,3 +1,35 @@
-# sweet-cupcake-pit2
+# Sweet Cupcake Web System
 
-[![Open in Bolt](https://bolt.new/static/open-in-bolt.svg)](https://bolt.new/~/sb1-8u54xpnm)
+Projeto Integrador Transdisciplinar em Engenharia de Software II.
+
+## Descrição
+
+Sistema web para gerenciamento e venda de cupcakes artesanais.
+
+## Funcionalidades
+
+- Cadastro de usuários
+- Login e recuperação de senha
+- Catálogo de produtos
+- Busca e filtros
+- Carrinho de compras
+- Checkout
+- Histórico de pedidos
+- Perfil do usuário
+- Painel administrativo
+
+## Tecnologias Utilizadas
+
+- React
+- TypeScript
+- Tailwind CSS
+- Supabase
+- PostgreSQL
+- Vite
+
+## Documentação
+
+A documentação completa encontra-se no arquivo:
+
+```text
+DOCUMENTACAO.md
